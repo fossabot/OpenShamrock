@@ -15,6 +15,8 @@
 </div>
 
 ## 简介
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fwhitechi73%2FOpenShamrock.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fwhitechi73%2FOpenShamrock?ref=badge_shield)
+
 
 ☘ 基于 Lsposed(**Non**-Riru) 实现 Kritor 标准的 QQ 机器人框架！
 
@@ -129,3 +131,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 [contrib-link]: https://github.com/whitechi73/OpenShamrock/graphs/contributors
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fwhitechi73%2FOpenShamrock.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fwhitechi73%2FOpenShamrock?ref=badge_large)
